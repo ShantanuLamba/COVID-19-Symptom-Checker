@@ -1,0 +1,24 @@
+.header{
+    background-color: lightsalmon;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+.instruct{
+    background-color:lightpink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:Arial;
+}
+#startbutton{
+    margin-left: 750px;
+}
+#footer{
+    font-family: Arial;
+    background-color: aqua;
+}
+.resultyy{
+    background-color: azure;
+}
+#imginstruct{
+    margin-left: 450px;
+}
